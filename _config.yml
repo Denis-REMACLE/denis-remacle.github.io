@@ -12,11 +12,11 @@ google_analytics:
 # GitHub Values
 github:
   owner_name: Dracula
-  owner_url: https://github.com/dracula
-  repository_url: https://github.com/dracula/gh-pages
+  owner_url: https://github.com/Denis-REMACLE
+  repository_url: https://github.com/Denis-REMACLE/denis-remacle.github.io
 
-show_downloads: true
-show_header: true
+show_downloads: false
+show_header: false
 remote_theme: "dracula/gh-pages"
 
 sass:
