@@ -1,7 +1,7 @@
 # SEO Values
-title: Denis REMACLE's github page
-tagline: The renowned dark theme for ...
-description: The renowned dark theme for ...
+title: Denis' github page
+tagline: A wannabe hacker page
+description: A wannabe hacker page
 url: https://dracula.github.io/gh-pages/
 twitter: https://twitter.com/zenorocha
 logo: https://draculatheme.com/static/icons/pack-1/045-dracula.svg
@@ -11,7 +11,7 @@ google_analytics:
 
 # GitHub Values
 github:
-  owner_name: Dracula
+  owner_name: Denis-REMACLE
   owner_url: https://github.com/Denis-REMACLE
   repository_url: https://github.com/Denis-REMACLE/denis-remacle.github.io
 
