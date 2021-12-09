@@ -123,11 +123,18 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 -->
-# [](#header-1)Menu
+# [](#header-1)cat project/DebianServBootstrap
 
-- [Home](../index.md)  
-- [Curriculum Vitae](../curriculum.md)  
-- [My projects](../projects.md)
-  - [EZ-Calculation](calculator.md)
-  - [DebianServBootstrap](debianbootstrap.md)
-  - [WHACK](whack.md)
+Hello, welcome to my github page. 
+
+# [](#header-2)cd .. && ls -Rl
+
+[-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 Home](../index.md)  
+[-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 Curriculum-Vitae](../curriculum.md)  
+[-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 My-projects](../projects.md)
+
+./project:  
+total 12  
+[-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 EZ-Calculation](calculator.md)
+[-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 DebianServBootstrap](debianbootstrap.md)
+[-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 WHACK](whack.md)
