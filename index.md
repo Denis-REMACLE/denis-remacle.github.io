@@ -124,3 +124,6 @@ The final element.
 ```
 -->
 ### Not started yet
+
+[Home](index.md)
+[Curriculum Vitae](curriculum.md)
