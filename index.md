@@ -125,5 +125,6 @@ The final element.
 -->
 ### Not started yet
 
-[Home](index.md)
-[Curriculum Vitae](curriculum.md)
+[Home](index.md)  
+[Curriculum Vitae](curriculum.md)  
+[My projects](projects.md)
