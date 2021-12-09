@@ -123,11 +123,11 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 -->
-# [](#header-2)cat project/WHACK
+## [](#header-2)cat project/WHACK
 
 Hello, welcome to my github page. 
 
-# [](#header-2)cd .. && ls -Rl
+## [](#header-2)cd .. && ls -Rl
 
 [-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 Home](../index.md)  
 [-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 Curriculum-Vitae](../curriculum.md)  
