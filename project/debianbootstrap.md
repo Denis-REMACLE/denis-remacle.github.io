@@ -125,9 +125,9 @@ The final element.
 -->
 ### Menu
 
-- [Home](index.md)  
-- [Curriculum Vitae](curriculum.md)  
-- [My projects](projects.md)
-  - [EZ-Calculation](project/calculator.md)
-  - [DebianServBootstrap](project/debianbootstrap.md)
-  - [WHACK](project/whack.md)
+- [Home](../index.md)  
+- [Curriculum Vitae](../curriculum.md)  
+- [My projects](../projects.md)
+  - [EZ-Calculation](calculator.md)
+  - [DebianServBootstrap](debianbootstrap.md)
+  - [WHACK](whack.md)
