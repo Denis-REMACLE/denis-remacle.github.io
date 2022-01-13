@@ -126,6 +126,10 @@ The final element.
 ## [](#header-2)cat Curriculum-Vitae
 
 Hello, welcome to my github page. 
+I am a student in CyberSecurity at ESGI a school located in Paris.
+
+On this github page /!\ Work in slow progress /!\  
+I'll detail my résumé.
 
 ## [](#header-2)ls -Rl
 

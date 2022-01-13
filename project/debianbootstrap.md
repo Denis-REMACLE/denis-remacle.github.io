@@ -127,6 +127,9 @@ The final element.
 
 Hello, welcome to my github page. 
 
+On this github page /!\ Work in slow progress /!\  
+I'll detail the project DebianServBootstrap.
+
 ## [](#header-2)cd .. && ls -Rl
 
 [-rw-r--r-- 1 cr1ng3 cr1ng3  572 19 sept. 05:21 Home](../index.md)  
